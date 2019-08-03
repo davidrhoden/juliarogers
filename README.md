@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b1e93857-8967-4eb6-a996-d97d60b73d1f/deploy-status)](https://app.netlify.com/sites/juliarogers/deploys)
